@@ -50,13 +50,13 @@ public:
 		std::cout << " ,---------------," << std::endl;
 		std::cout << " |  Tic Tac Toe  |" << std::endl;
 		std::cout << " '---------------'" << std::endl;
-		std::cout << "      |     |     " << std::endl;
+		std::cout << " 1    |2    |3    " << std::endl;
 		std::cout << "   "; pcox(console_color, m_Apossitions[0], xColor, oColor, default_color); std::cout << "  |  ";  pcox(console_color, m_Apossitions[1], xColor, oColor, default_color); std::cout << "  |  "; pcox(console_color, m_Apossitions[2], xColor, oColor, default_color); std::cout << "  " << std::endl;
 		std::cout << " _____|_____|_____" << std::endl;
-		std::cout << "      |     |     " << std::endl;
+		std::cout << " 4    |5    |6    " << std::endl;
 		std::cout << "   "; pcox(console_color, m_Apossitions[3], xColor, oColor, default_color); std::cout << "  |  "; pcox(console_color, m_Apossitions[4], xColor, oColor, default_color); std::cout << "  |  "; pcox(console_color, m_Apossitions[5], xColor, oColor, default_color); std::cout << "  " << std::endl;
 		std::cout << " _____|_____|_____" << std::endl;
-		std::cout << "      |     |     " << std::endl;
+		std::cout << " 7    |8    |9    " << std::endl;
 		std::cout << "   "; pcox(console_color, m_Apossitions[6], xColor, oColor, default_color); std::cout << "  |  "; pcox(console_color, m_Apossitions[7], xColor, oColor, default_color); std::cout << "  |  "; pcox(console_color, m_Apossitions[8], xColor, oColor, default_color); std::cout << "  " << std::endl;
 		std::cout << "      |     |     " << std::endl << std::endl;
 	}
