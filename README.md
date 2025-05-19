@@ -6,3 +6,5 @@ C++ Windows console version of a popular game "Tic Tac Toe". This version contai
 ![Zrzut ekranu 2024-05-31 134618](https://github.com/Cashtann/Tic-Tac-Toe/assets/121943141/79411bcd-a3b6-4d11-a7f0-549cffac6379)
 ![Zrzut ekranu 2024-05-31 134802](https://github.com/Cashtann/Tic-Tac-Toe/assets/121943141/9993a4aa-28fa-4bbc-931a-bc8bce8cfa24)
 
+### Stack
+c++ 17
